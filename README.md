@@ -2,9 +2,9 @@
 <h1 align="center">Hi, I'm Zeyneb 👋</h1>
 <h3 align="center">Junior Software Engineer</h3>
 
-- 🔭 I’m currently working on Django and Fronted Web Development
-- 🌱 I’m currently learning .Net core  
-- 📫 How to reach me: zeynebesraozturk@gmail.com
+- 🔭 I’m currently working on **Django and Fronted Web Development**
+- 🌱 I’m currently learning **.Net core**  
+
 
 
 <h3 align="left">Connect with me:</h3>
