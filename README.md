@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi, I'm Zeyneb 👋</h1>
-<h3 align="center">Junior Software Engineer</h3>
 
 <br />
 
@@ -40,6 +39,7 @@
 <img align="left" alt="dotnet" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" />
 
 <img align="left"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  />
+ <img align="left" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="26px"/>
 
 <img align="left"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"  />
 
