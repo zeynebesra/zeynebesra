@@ -41,9 +41,6 @@
 
 <img align="left"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  />
 
-
-<img align="left" alt="SQLserver" width="26px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"  />
-
 <img align="left"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"  />
 
 
