@@ -4,7 +4,7 @@
 <br />
 
 - 🔭 I’m currently working on **Django and Frontend Web Development**
-- 🌱 I’m currently learning **.Net core**  
+- 🌱 I’m currently learning **.Net core and React**  
 
 <br />
 
