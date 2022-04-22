@@ -37,16 +37,16 @@
 <img align="left" alt="bootstrap" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Redux" width="30px" src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png" />
+<img align="left" alt="React" width="30px" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" />
+<img align="left" alt="Nodejs" width="30px" src="https://pics.freeicons.io/uploads/icons/png/15056343581551942278-512.png" />
+<img align="left" alt="Mongodb" width="30px" src="https://pics.freeicons.io/uploads/icons/png/1888890291551942128-512.png" />
+
 
 <img align="left"  width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  />
  <img align="left" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="26px"/>
 
 <img align="left"  width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"  />
-
-
-
-
-
 
 
 <!-- Languages and Tools link -->
