@@ -3,7 +3,7 @@
 
 <br />
 
-- 🔭 I’m currently working on **Django and Frontend Web Development**
+- 🔭 I’m currently working on **Django and C#**
 - 🌱 I’m currently learning **Node.js and React**  
 
 <br />
