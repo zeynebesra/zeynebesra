@@ -17,7 +17,7 @@
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />
 <img align="left" alt="django" width="40px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
-<img align="left" alt="FLASK" width="40px" src="https://banner2.cleanpng.com/20180508/qyw/kisspng-flask-python-web-framework-web-application-tutoria-5af1dbb70b6430.1030595115257998630467.jpg" />
+
 <img align="left" alt="csharp" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  />
  <img align="left"  alt="java" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
 <img align="left" alt="HTML5" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" />
